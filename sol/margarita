@@ -1,0 +1,14 @@
+#div3{
+float:left;
+background:#E6D690;
+width: 50%;
+  min-height:400px;
+   font-family: fantasy;
+}
+#div3{
+float:left;
+background:#E6D690;
+width: 50%;
+  min-height:240px;
+   font-family: fantasy;
+}
