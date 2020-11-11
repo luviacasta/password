@@ -1,0 +1,33 @@
+formulario {
+  relleno : 60 px ;
+  ancho máximo : 400 px ;
+  color de fondo : # 43989e7d ;
+  margen : 0 automático;
+  familia de fuentes : cursiva;
+  color : # 0a0a0a ;
+}
+formulario de  entrada {
+  margen inferior : 15 px ;
+  familia de fuentes : sans-serif;
+  ancho : 72 % ;
+  relleno : 15 px ;
+  -webkit-box-sizing : border-box;
+  tamaño de caja: caja de borde;
+  borde : ninguno;
+  color : # 0a0a0a ;
+  color de fondo : # dcdcdcd4 ;
+  tamaño de fuente : 1 em ;
+  redimensionar : horizontal;
+}
+h1 {
+  color : # 0a0a0a ;
+  tamaño de fuente : 50 ;
+}
+p {
+fuente : cuadro de mensaje;
+color : # 0a0a0a ;
+}
+
+formulario {
+  color : # 0a0a0a ;
+}
